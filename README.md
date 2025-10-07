@@ -3,7 +3,12 @@
 An interactive **Streamlit dashboard** for pricing European options, calculating Greeks, and providing actionable trading insights using **real-time market data**. This project demonstrates the application of financial models such as **Black-Scholes** and **Binomial Tree** in option pricing and risk management.
 
 ---
+## 🚀 Launch the Dashboard
 
+You can interact with the European Option Pricing Assistant live on Streamlit:
+
+[🔗 Open Dashboard on Streamlit](https://european-option-pricing-o2t2lsxcrerqe4ejs5hvdu.streamlit.app/)
+---
 ## **Overview**
 
 This dashboard allows users to:  
@@ -17,12 +22,6 @@ This dashboard allows users to:
 
 It serves as both an **educational** and **analytical** tool for understanding option pricing dynamics.
 
----
-## 🚀 Launch the Dashboard
-
-You can interact with the European Option Pricing Assistant live on Streamlit:
-
-[🔗 Open Dashboard on Streamlit](https://european-option-pricing-o2t2lsxcrerqe4ejs5hvdu.streamlit.app/)
 ---
 
 ## **Objective**
