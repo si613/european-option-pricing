@@ -18,6 +18,12 @@ This dashboard allows users to:
 It serves as both an **educational** and **analytical** tool for understanding option pricing dynamics.
 
 ---
+## 🚀 Launch the Dashboard
+
+You can interact with the European Option Pricing Assistant live on Streamlit:
+
+[🔗 Open Dashboard on Streamlit](https://european-option-pricing-o2t2lsxcrerqe4ejs5hvdu.streamlit.app/)
+---
 
 ## **Objective**
 
